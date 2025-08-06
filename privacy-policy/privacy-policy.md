@@ -1,15 +1,15 @@
-# Privacy Policy for Venery
+# Privacy Policy for Sthor
 
 **Effective Date**: [1st September 2025]
 
-Thank you for using **Venery** (“we”, “our”, or “us”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application **Venery**.
+Thank you for using **Sthor** (“we”, “our”, or “us”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application **Sthor**.
 
 ---
 
 ## 1. Information We Collect
 
 ### A. Account Information
-To use Venery, you are required to create an account. We collect:
+To use Sthor, you are required to create an account. We collect:
 - **Email address**
 - **Username** (no specific requirements)
 
@@ -75,13 +75,13 @@ To exercise these rights, please email us at: **[anhcao4922@gmail.com]**
 
 ## 7. Children’s Privacy
 
-y is intended for a **general audience** and is **not directed to children under 13**. We do not knowingly collect personal data from children. If you believe a child has provided us with personal information, contact us immediately.
+Sthor is intended for a **general audience** and is **not directed to children under 13**. We do not knowingly collect personal data from children. If you believe a child has provided us with personal information, contact us immediately.
 
 ---
 
 ## 8. Future Changes
 
-We may update this Privacy Policy occasionally. When we do, we will notify users via the app or email if required. The latest version will always be available within the app or on our Github website.
+We may update this Privacy Policy occasionally. When we do, we will notify users via the app or email if required. The latest version will always be available within the app or on our GitHub website.
 
 ---
 
