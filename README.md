@@ -1,2 +1,2 @@
-# electric-compliance
-Contains privacy policy, technologies used in electric app 
+# energy-compliance
+Contains privacy policy, technologies used in Sthor (energy app)
