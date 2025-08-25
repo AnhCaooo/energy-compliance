@@ -84,7 +84,7 @@ To exercise these rights, please email us at: **[support@sthorenergy.com]**
 
 ## 7. Children’s Privacy
 
-Sthor is intended for a **general audience** and is **not directed to children under 13**. We do not knowingly collect personal data from children. If you believe a child has provided us with personal information, contact us immediately.
+Sthor is rated 4+ and intended for a **general audience** and is **not directed to children under 13**. We do not knowingly collect personal data from children. If you believe a child has provided us with personal information, contact us immediately.
 
 ---
 
