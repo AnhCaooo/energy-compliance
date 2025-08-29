@@ -55,7 +55,7 @@ We use the following third-party services solely to support core app functionali
 Each third party has its own privacy policy governing how they handle your data.
 - **Firebase** – [Privacy Policy](https://firebase.google.com/support/privacy)  
 - **Supabase Auth** – [Privacy Policy](https://supabase.com/privacy)
-- **Google AdMob** – [Privacy Policy]([https://policies.google.com/privacy](https://support.google.com/admob/answer/6128543?sjid=13539844862142494356-EU))
+- **Google AdMob** – [Privacy Policy](https://support.google.com/admob/answer/6128543?sjid=13539844862142494356-EU)
 
 ---
 
