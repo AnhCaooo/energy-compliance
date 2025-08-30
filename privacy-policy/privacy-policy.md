@@ -90,7 +90,7 @@ Sthor is rated 4+ and intended for a **general audience** and is **not directed 
 
 ## 8. Future Changes
 
-We may update this Privacy Policy occasionally. When we do, we will notify users via the app or email if required. The latest version will always be available within the app or on this GitHub website.
+We may update this Privacy Policy occasionally. When we do, we will notify users via the app or email if required. The latest version will always be available on this website.
 
 ---
 
